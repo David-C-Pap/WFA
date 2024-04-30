@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Valean_II\WindowsFormsApplicationTema2\WindowsFormsApplicationTema2\bin\Debug\WindowsFormsApplicationTema2.exe.config
+C:\Users\user\Desktop\Valean_II\WindowsFormsApplicationTema2\WindowsFormsApplicationTema2\bin\Debug\WindowsFormsApplicationTema2.exe
+C:\Users\user\Desktop\Valean_II\WindowsFormsApplicationTema2\WindowsFormsApplicationTema2\bin\Debug\WindowsFormsApplicationTema2.pdb
+C:\Users\user\Desktop\Valean_II\WindowsFormsApplicationTema2\WindowsFormsApplicationTema2\obj\Debug\WindowsFormsApplicationTema2.Form1.resources
+C:\Users\user\Desktop\Valean_II\WindowsFormsApplicationTema2\WindowsFormsApplicationTema2\obj\Debug\WindowsFormsApplicationTema2.Properties.Resources.resources
+C:\Users\user\Desktop\Valean_II\WindowsFormsApplicationTema2\WindowsFormsApplicationTema2\obj\Debug\WindowsFormsApplicationTema2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Valean_II\WindowsFormsApplicationTema2\WindowsFormsApplicationTema2\obj\Debug\WindowsFormsApplicationTema2.exe
+C:\Users\user\Desktop\Valean_II\WindowsFormsApplicationTema2\WindowsFormsApplicationTema2\obj\Debug\WindowsFormsApplicationTema2.pdb
+C:\Users\user\Desktop\Valean_II\WindowsFormsApplicationTema2\WindowsFormsApplicationTema2\obj\Debug\WindowsFormsApplicationTema2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Valean_II\WindowsFormsApplicationTema2\WindowsFormsApplicationTema2\obj\Debug\WindowsFormsApplicationTema2.csproj.CoreCompileInputs.cache

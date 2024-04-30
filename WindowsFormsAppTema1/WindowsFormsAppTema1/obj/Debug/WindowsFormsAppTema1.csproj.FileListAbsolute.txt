@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Valean_II\WindowsFormsAppTema1\WindowsFormsAppTema1\bin\Debug\WindowsFormsAppTema1.exe.config
+C:\Users\user\Desktop\Valean_II\WindowsFormsAppTema1\WindowsFormsAppTema1\bin\Debug\WindowsFormsAppTema1.exe
+C:\Users\user\Desktop\Valean_II\WindowsFormsAppTema1\WindowsFormsAppTema1\bin\Debug\WindowsFormsAppTema1.pdb
+C:\Users\user\Desktop\Valean_II\WindowsFormsAppTema1\WindowsFormsAppTema1\obj\Debug\WindowsFormsAppTema1.Form1.resources
+C:\Users\user\Desktop\Valean_II\WindowsFormsAppTema1\WindowsFormsAppTema1\obj\Debug\WindowsFormsAppTema1.Properties.Resources.resources
+C:\Users\user\Desktop\Valean_II\WindowsFormsAppTema1\WindowsFormsAppTema1\obj\Debug\WindowsFormsAppTema1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Valean_II\WindowsFormsAppTema1\WindowsFormsAppTema1\obj\Debug\WindowsFormsAppTema1.exe
+C:\Users\user\Desktop\Valean_II\WindowsFormsAppTema1\WindowsFormsAppTema1\obj\Debug\WindowsFormsAppTema1.pdb
+C:\Users\user\Desktop\Valean_II\WindowsFormsAppTema1\WindowsFormsAppTema1\obj\Debug\WindowsFormsAppTema1.Form2.resources
+C:\Users\user\Desktop\Valean_II\WindowsFormsAppTema1\WindowsFormsAppTema1\obj\Debug\WindowsFormsAppTema1.Form3.resources
+C:\Users\user\Desktop\Valean_II\WindowsFormsAppTema1\WindowsFormsAppTema1\obj\Debug\WindowsFormsAppTema1.Form4.resources
+C:\Users\user\Desktop\Valean_II\WindowsFormsAppTema1\WindowsFormsAppTema1\obj\Debug\WindowsFormsAppTema1.Form5.resources
+C:\Users\user\Desktop\Valean_II\WindowsFormsAppTema1\WindowsFormsAppTema1\obj\Debug\WindowsFormsAppTema1.Form6.resources
+C:\Users\user\Desktop\Valean_II\WindowsFormsAppTema1\WindowsFormsAppTema1\obj\Debug\WindowsFormsAppTema1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Valean_II\WindowsFormsAppTema1\WindowsFormsAppTema1\obj\Debug\WindowsFormsAppTema1.csproj.CoreCompileInputs.cache
